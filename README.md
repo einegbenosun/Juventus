@@ -1,0 +1,1 @@
+The Juventus Fan App is an Android application for Juventus FC fans to explore player profiles, manage favorite players, and view team achievements. Built with Jetpack Compose in Android Studio, the app uses core Object-Oriented Programming (OOP) principles and Jetpack Navigation to provide a smooth, intuitive experience across player, favorites, and achievements screens.
